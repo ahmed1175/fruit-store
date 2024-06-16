@@ -40,7 +40,7 @@ const Whereibuy = () => {
             <img
               data-aos="zoom-in"
               data-aos-delay="300"
-              src="/src/assets/world-map.png"
+              src="https://online-fruits-selling.netlify.app/assets/world-map-CpXg2haz.png"
               alt="not found "
               className="w-full sm:w-[500px] mx-auto"
             />
