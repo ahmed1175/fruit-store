@@ -12,7 +12,7 @@ const Service = () => {
     },
     {
       id: 2,
-      image: "/src/assets/fruits2-BRxfLPDp.png",
+      image: "https://online-fruits-selling.netlify.app/assets/fruits2-BRxfLPDp.png",
       aosdelay: "500",
       title: "Fresh fruit",
       subtitle:
@@ -20,7 +20,7 @@ const Service = () => {
     },
     {
       id: 3,
-      image: "/src/assets/fruits3.png",
+      image: "https://online-fruits-selling.netlify.app/assets/fruits3-C3H_53Qs.png",
       aosdelay: "700",
       title: "Orange",
       subtitle:
