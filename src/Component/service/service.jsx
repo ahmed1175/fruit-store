@@ -4,7 +4,7 @@ const Service = () => {
   const servicedata = [
     {
       id: 1,
-      image: "/src/assets/s.webp",
+      image: "https://img.freepik.com/premium-photo/fresh-fruit-basket-fresh-fruits-basket-colorful-fruits-green-fruits-white-background_939542-519.jpg?w=740",
       aosdelay: "300",
       title: "Fruit ",
       subtitle:
