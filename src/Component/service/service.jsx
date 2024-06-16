@@ -4,7 +4,7 @@ const Service = () => {
   const servicedata = [
     {
       id: 1,
-      image: "/scr/assets/fruits1",
+      image: "https://online-fruits-selling.netlify.app/assets/fruits1-CXyVdFj3.webp",
       aosdelay: "300",
       title: "Fruit ",
       subtitle:
